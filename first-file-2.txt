@@ -1,6 +1,21 @@
- mon premier text
 
 
-Je rajoute une ligne 
+**Résumé de "Hamlet"**
 
-Modification du texte
+"Hamlet" est l'une des pièces les plus célèbres de William Shakespeare, écrite à la fin du XVIe siècle. L'histoire se déroule au Danemark et suit le prince Hamlet, qui est confronté à des questions profondes sur la vie, la mort, la trahison et la justice. 
+
+L'intrigue commence avec le retour d'Hamlet à Elsinore après la mort de son père, le roi, dont la disparition a plongé le royaume dans le deuil. Peu après, Hamlet est visité par le spectre de son père, qui révèle que c'est son frère Claudius, désormais roi, qui l'a assassiné pour s'emparer du trône. Cette révélation déclenche chez Hamlet une quête de vengeance, mais aussi un profond tourment intérieur.
+
+Un des thèmes centraux de la pièce est l'incertitude et l'ambiguïté de l'existence. Hamlet est un personnage introspectif, souvent en proie à des doutes et à des réflexions philosophiques sur la nature de la vie. Son célèbre monologue « Être ou ne pas être » pose la question de l'existence et du sens de la vie face à la souffrance. Cela témoigne de son état d'esprit tourmenté, partagé entre l'envie de venger son père et la peur des conséquences de ses actions.
+
+Le thème de la trahison est également omniprésent. Claudius, bien que frère du roi défunt, incarne la duplicité et l'ambition démesurée. La relation d'Hamlet avec sa mère, Gertrude, qui se remarie rapidement avec Claudius, ajoute à sa douleur et à son sentiment de trahison. La perception d'Hamlet d'une moralité corrompue à la cour danoise souligne l'idée que le pouvoir peut pervertir les relations et les valeurs.
+
+Un autre aspect marquant de "Hamlet" est la question de la folie. Alors qu'Hamlet feint la folie pour dissimuler ses véritables intentions, la ligne entre la raison et la folie devient floue. Ce thème est illustré par le personnage d'Ophélie, qui, en proie à la douleur et au stress, sombre dans la folie réelle. Sa tragédie illustre les conséquences dévastatrices des conflits familiaux et des attentes sociales.
+
+La pièce explore aussi la notion de l'action et de l'inaction. Hamlet est souvent paralysé par ses réflexions, et ses hésitations le mènent à des conséquences tragiques. Sa lutte pour agir le rend à la fois relatable et tragique, car il représente une lutte humaine universelle face à des dilemmes moraux complexes.
+
+Finalement, la pièce culmine dans un dénouement tragique où presque tous les personnages principaux trouvent la mort, résultant de complots et de vengeances. La mort de Hamlet, malgré son désir de justice, laisse le public avec une réflexion sur le cycle de la violence et les conséquences des actions humaines.
+
+En somme, "Hamlet" est une exploration profonde de la condition humaine, interrogeant des thèmes comme l'identité, la moralité, et le sens de la vie. Sa richesse et sa complexité continuent d'inspirer des générations d’artistes et de penseurs, faisant de cette œuvre un pilier de la littérature mondiale.
+
+
