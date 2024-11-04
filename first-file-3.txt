@@ -1,3 +1,5 @@
 coucou les amis on fait du git
 
-Mohamed est passé par là ! 
+Mohamed est passé par là !
+Moi aussi je suis passé par la !
+ 
